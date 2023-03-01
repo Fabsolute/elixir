@@ -1,3 +1,6 @@
 [submodule "tiex"]
 	path = tiex
 	url = git@github.com:Fabsolute/tiex.git
+[submodule "seiko"]
+	path = seiko
+	url = git@github.com:Fabsolute/seiko-elixir.git
