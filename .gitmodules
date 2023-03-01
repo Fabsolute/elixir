@@ -1,0 +1,3 @@
+[submodule "tiex"]
+	path = tiex
+	url = git@github.com:Fabsolute/tiex.git
