@@ -4,3 +4,6 @@
 [submodule "seiko"]
 	path = seiko
 	url = git@github.com:Fabsolute/seiko-elixir.git
+[submodule "leex"]
+	path = leex
+	url = git@github.com:Fabsolute/leex-elixir.git
