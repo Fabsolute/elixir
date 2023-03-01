@@ -7,3 +7,6 @@
 [submodule "leex"]
 	path = leex
 	url = git@github.com:Fabsolute/leex-elixir.git
+[submodule "chalk"]
+	path = chalk
+	url = git@github.com:Fabsolute/chalk-elixir.git
